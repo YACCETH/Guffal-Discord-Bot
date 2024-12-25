@@ -1,4 +1,4 @@
-# Guffal-Discord-Bot
+# Guffal-Discord-Bot-Arcium-Quest
 Welcome to the Guffal Discord Bot repository! This bot is designed to enhance our Discord server with games and utilities inspired by the lore and themes of Guffal.
 
 ## Features
